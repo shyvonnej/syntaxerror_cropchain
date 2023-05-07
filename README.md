@@ -69,4 +69,4 @@ By using CropChain, small agricultural enterprises can focus on their core compe
 + Sustainability
 
 **THANK YOU**
-/nThank you, UUM UniHack 2023 Organizer, for providing us with the opportunity to participate in this remarkable event. We are grateful for the time, effort, and resources invested in organizing the competition and for the platform provided to showcase our innovation. We look forward to future collaborations and hope to participate in similar events in the future.
++ Thank you, UUM UniHack 2023 Organizer, for providing us with the opportunity to participate in this remarkable event. We are grateful for the time, effort, and resources invested in organizing the competition and for the platform provided to showcase our innovation. We look forward to future collaborations and hope to participate in similar events in the future.
